@@ -105,7 +105,7 @@ I create impactful digital experiences by building scalable full-stack applicati
 - Session-based rooms with role-based control (tracker/tracked) and instant state sync
 - Deployed on Vercel + Render with a decoupled frontend-backend architecture
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/KrrishAg/geo-sync)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/KrrishAg/Real-Time-Geo-Sync)
 [![Live](https://img.shields.io/badge/Live-0d0d0d?style=flat-square&logo=firefoxbrowser&logoColor=00D9FF)](https://real-time-geo-sync.vercel.app/)
 
 ---
